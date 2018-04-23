@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+    <metadata>
+        <id>HMediator</id>
+        <version>1.0.0</version>
+        <title>HMediator</title>
+        <authors>Hubert Nosek</authors>
+        <owners>Hubert Nosek</owners>
+        <licenseUrl>https://github.com/hubertnosek100/hmediator/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/hubertnosek100/hmediator</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Simple mediator for Portable Library.</description>
+        <copyright>Copyright © 2018, Hubert Nosek</copyright>
+        <dependencies>            
+        </dependencies>
+    </metadata>
+</package>
