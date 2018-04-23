@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
     <metadata>
-        <id>HabitRPG.Client</id>
+        <id>HMediator</id>
         <version>1.0.0</version>
         <title>HMediator</title>
         <authors>Hubert Nosek</authors>
